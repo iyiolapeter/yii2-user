@@ -1,0 +1,21 @@
+{
+    "name": "iyiolapeter/yii2-user",
+    "description": "Simple Yii2 User Management Extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Peter Iyiola",
+            "email": "iyiolapeter@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pso\\yii2\\user\\": ""
+        }
+    }
+}
